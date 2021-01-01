@@ -1,5 +1,5 @@
 # Kelompok 12 :
-- Lia rindiany (1808107010001)
+- Lia Rindiany (1808107010001)
 - Fitria Wardaliza (1808107010067)
 
 # CleanCamera
